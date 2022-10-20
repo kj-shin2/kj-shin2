@@ -1,46 +1,17 @@
-<image src="images/profile.jpg" width=300></image>
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&width=100%&section=header&text=Dev%20Shin&fontSize=60&desc=I%20will%20be%20the%20best%20developer.&DescSize=14&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=cccccc&height=300&section=header&text=최강%20특강&fontSize=90)
+<image src="images/profile.jpg">
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kj-shin2)](https://github.com/kj-shin2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kj-shin2)](https://github.com/kj-shin2/github-readme-stats)
+### Name
+- 신국진
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kj-shin2&layout=compact)](https://github.com/kj-shin2/github-readme-stats)
+### UseLanguage
+- FrontEnd: HTML, CSS, JAVASCRIPT
+- BackEnd : JAVA 
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
----
-
-**안녕**<br>
-*하세요*<br>
-~~취소선~~<br>
-
->인용구
-* 1번
-* 2번
-- 1번
-- 2번
-
-[네이버가자](http://www.naver.com)
-
-```
-System.write();
-```
-
-- [] 체크박스
-- [x] ddd
-
-:smikr:
-:joy:
-
-
+### Projects
+- 계산기 [계산기예제참조링크](https://www.google.com/search?q=%EA%B3%84%EC%82%B0%EA%B8%B0&rlz=1C1CHZN_koKR1021KR1021&oq=%EA%B3%84%EC%82%B0%EA%B8%B0&aqs=chrome..69i57j0i131i433i512j0i512l5j69i61.1654j0j7&sourceid=chrome&ie=UTF-8)
+- 자판기 [자판기예제참조링크](https://kim-coffee.tistory.com/20)
+- 펜션예약 [펜션예약예제참조링크](https://hyejin283.tistory.com/116)
