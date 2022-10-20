@@ -1,3 +1,5 @@
+<image src="images/profile.jpg" width=300></image>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=cccccc&height=300&section=header&text=최강%20특강&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kj-shin2)](https://github.com/kj-shin2)
